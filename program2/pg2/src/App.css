@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.options div {
+  margin: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 10px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+span {
+  font-size: 20px;
+  margin-left: 10px;
+}
